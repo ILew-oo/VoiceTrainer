@@ -2923,7 +2923,7 @@
  [],
  False,
  False,
- 1794520916,
+ 1794581928,
  [('run.exe',
    'C:\\Users\\Kern\\Documents\\GitHub\\VoiceTrainer\\.venv-win\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
